@@ -1,0 +1,54 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-mkdocs",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/#commands",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Commands"
+        },
+        {
+            "location": "/#project-layout",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project layout"
+        },
+        {
+            "location": "/about/",
+            "text": "About Foxie\n\n\n\n\nVerba Volat, Scripta Manent.\n\n\n\n\nThis website is about Learning created by real human with blood and flesh, hosted by AWS (robots controlled by some other humans).\n\n\n  \n\n\n\n\nLinux\n\n\nPython\n\n\nMachine Learning",
+            "title": "About"
+        },
+        {
+            "location": "/about/#about-foxie",
+            "text": "Verba Volat, Scripta Manent.   This website is about Learning created by real human with blood and flesh, hosted by AWS (robots controlled by some other humans).       Linux  Python  Machine Learning",
+            "title": "About Foxie"
+        },
+        {
+            "location": "/user-doc/tmux/",
+            "text": "tmux documentation\n\n\nconneting to AWS Ubuntu\n\n\n ssh -i \"awskey.pem\" ubuntu@54.171.160.30\n\n\n\n\ntmux commands\n\n\n\n\nattach existing session: \ntmux a\n\n\nput in command mode: \nCtrl + B\n\n\nc\n: create window\n\n\np\n: previous window\n\n\nn\n: next window\n\n\nd\n: detach from all\n\n\n0-9\n: specific window",
+            "title": "tmux"
+        },
+        {
+            "location": "/user-doc/tmux/#tmux-documentation",
+            "text": "",
+            "title": "tmux documentation"
+        },
+        {
+            "location": "/user-doc/tmux/#conneting-to-aws-ubuntu",
+            "text": "ssh -i \"awskey.pem\" ubuntu@54.171.160.30",
+            "title": "conneting to AWS Ubuntu"
+        },
+        {
+            "location": "/user-doc/tmux/#tmux-commands",
+            "text": "attach existing session:  tmux a  put in command mode:  Ctrl + B  c : create window  p : previous window  n : next window  d : detach from all  0-9 : specific window",
+            "title": "tmux commands"
+        }
+    ]
+}
