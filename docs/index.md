@@ -1,5 +1,7 @@
 # Welcome to MkDocs
 
+> Ordung bracht nur der Dumme, das Genie beherrscht das kuddelmuddel.
+
 For full documentation visit [mkdocs.org](http://mkdocs.org).
 This file was created by mkdocs.
 
