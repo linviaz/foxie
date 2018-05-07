@@ -1,0 +1,9 @@
+site_name: Foxie Projects
+
+theme: readthedocs
+
+pages:
+- Home: 'index.md'
+- About: 'about.md'
+- User Documentation:
+    - 'tmux': 'user-doc/tmux.md'
