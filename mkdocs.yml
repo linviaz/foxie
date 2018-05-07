@@ -7,3 +7,5 @@ pages:
 - About: 'about.md'
 - User Documentation:
     - 'tmux': 'user-doc/tmux.md'
+    - 'Travis CI': 'user-doc/travis.md'
+
