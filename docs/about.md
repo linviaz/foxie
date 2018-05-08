@@ -2,7 +2,7 @@
 
 > Verba Volat, Scripta Manent.
 
-This website is about Learning created by real human with blood and flesh, hosted by AWS (robots controlled by some other humans).
+This website is about Learning created by real human.
 
 ![foxie2](../../../2.jpg)  
 
