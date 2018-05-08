@@ -1,8 +1,7 @@
-# Welcome to MkDocs
+# Welcome to Foxie Docs
 
 > Ordung bracht nur der Dumme, das Genie beherrscht das kuddelmuddel.
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
 This file was created by mkdocs.
 
 ## Commands
@@ -17,4 +16,6 @@ This file was created by mkdocs.
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+        about.md  # About the site.
+        user-doc/ # Learning docs on things.
+        ...       # more to be presented...
