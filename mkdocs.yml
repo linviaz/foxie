@@ -8,4 +8,5 @@ pages:
 - User Documentation:
     - 'tmux': 'user-doc/tmux.md'
     - 'Travis CI': 'user-doc/travis.md'
+    - 'python notes': 'user-doc/pylearn.md'
 
