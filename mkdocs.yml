@@ -9,4 +9,5 @@ pages:
     - 'tmux': 'user-doc/tmux.md'
     - 'Travis CI': 'user-doc/travis.md'
     - 'python notes': 'user-doc/pylearn.md'
+    - 'sql notes': 'user-doc/sql.md'
 
