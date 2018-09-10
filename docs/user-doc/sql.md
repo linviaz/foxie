@@ -14,3 +14,13 @@ The following substracts from the TAGS project report on 28th March 2018.
 ```
 imp SYSTEM/PASSWORD FROMUSER=BOREHOLE,CONTACT,LOACTION,GEOTECH,LOOKUP TOUSER=BOREHOLE,CONTACT,LOCATION,GEOTECH,LOOKUP log = import.log
 ```
+
+# DQL
+ - column names of table:
+ ```
+ SELECT * FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME = 'table_name';
+ ```
+ 
+ 
+
+
