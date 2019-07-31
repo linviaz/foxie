@@ -10,4 +10,6 @@ pages:
     - 'Travis CI': 'user-doc/travis.md'
     - 'python notes': 'user-doc/pylearn.md'
     - 'sql notes': 'user-doc/sql.md'
+    - 'Spark notes':'user-doc/Spark.md'
+    - 'git notes':'user-doc/git.md'
 
