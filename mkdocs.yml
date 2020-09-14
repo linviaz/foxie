@@ -5,11 +5,12 @@ theme: readthedocs
 pages:
 - Home: 'index.md'
 - About: 'about.md'
-- User Documentation:
+- Learn-Along Documentation:
     - 'tmux': 'user-doc/tmux.md'
     - 'Travis CI': 'user-doc/travis.md'
     - 'python notes': 'user-doc/pylearn.md'
     - 'sql notes': 'user-doc/sql.md'
-    - 'Spark notes':'user-doc/Spark.md'
-    - 'git notes':'user-doc/git.md'
+    - 'spark notes': 'user-doc/spark.md'
 
+- Machine Learning:
+    - 'Time Series Analysis': 'ml-doc/tsa.md'
