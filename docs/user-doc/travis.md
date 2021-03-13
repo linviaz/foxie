@@ -1,4 +1,4 @@
-# Continuous Integration with Gitlab Travis-CI
+  # Continuous Integration with Gitlab Travis-CI
 
 Travis will run every time you `git push` code to github. It can be used to:
 
